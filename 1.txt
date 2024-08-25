@@ -1,1 +1,2 @@
-Add first valus
+Need to be start learning Automation testion
+1. Basic utomation testin
